@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Aula_1 {
-    public void main (String[] args){
+public class Licao_1 {
+    public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Boas vindas!");
 
